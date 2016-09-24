@@ -1,10 +1,10 @@
 ---
 layout: home
 ---
-# About Theme
+# Hello World
 
-This theme is Jekyll port of [vangeltzo.com](http://vangeltzo.com/) (by [Vangelis Tzortzis](https://github.com/srekoble)).
 
-To learn how to install and use this theme check out the [installation guide](http://taylantatli.me/Halve/halve-theme/) for more information.
-
-If you have a question, find a bug, or just want to say hi, please open an [issue on GitHub](https://github.com/TaylanTatli/Halve/issues/new).
+নমস্কার I'm  an Engineering Undergraduate pursuing Computer Science & Engineering from NIE Mysuru.
+Have a love for Android, Football (Gunners), Photography, Swimming and an occasional competitive coder.
+Still in search of my passion in Computer Science.
+If you have a question, find a bug, or just want to say hi, please open an [issue on GitHub](https://github.com/shubhodeepMitra/shubhodeepMitra.github.io/issues/new).
