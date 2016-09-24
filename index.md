@@ -2,9 +2,6 @@
 layout: home
 ---
 # Hello World
-
-
-
 নমস্কার
 
 I'm Shubhodeep Mitra an Engineering Undergraduate pursuing Computer Science & Engineering from NIE Mysuru.
