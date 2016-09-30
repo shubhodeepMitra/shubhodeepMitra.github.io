@@ -15,7 +15,7 @@ We started our journey at around 14:00 hours from NIE,Mysuru and traveled around
 Next we went to their common hall where we were to conduct few activities that we prepared for them. Their hall was beautifully decorated with inspiring qoutes, the one I particulalrly liked was:
 
 > Don't keep your dreams in your eyes else they will wash off with your tears,
-  rather keep your dreams in your heart so that is inspire you more with each heart beat.
+  rather keep your dreams in your heart so that it inspire you with each heart beat.
 
 So we started our activity, the scenario was that we will pass bits of paper where simple arithmetic expressions were written, the expressions were such that six people will get the same answer and their first objective was to find the other five people with the same answer. Well I need to agree the kids were putting their best to find the members of their team and it was really fun to watch them do so. Next each group was given few words and they had to make a story which includes all those words. They were first holding back, not knowing what to write but as time passed by they picked up the pace and finished their story. One member of each group took turn to recite their story to everyone. At last we sat for the prayer, when it ended one should have seen the joy of every kid as they picked up their bags and rushed out of the hall.
 Oh, did I mention their beautiful smiles when we handed over candies to each of them. :)
