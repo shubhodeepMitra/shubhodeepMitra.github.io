@@ -5,6 +5,7 @@ layout: home
 নমস্কার
 
 I'm Shubhodeep Mitra an Engineering Undergraduate pursuing Computer Science & Engineering from NIE Mysuru.
+
 Have a love for Android, Football (Gunners), Photography, Swimming and an occasional competitive coder.
 Still in search of my passion in Computer Science.
 
