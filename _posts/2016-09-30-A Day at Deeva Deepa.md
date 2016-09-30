@@ -3,8 +3,7 @@ layout: post
 title: "First Day At Deeva Deepa"
 image: images/deeva_deepa.jpg
 tags:
-  - First post
-  - Giving Back
+  - 
 ---
 
 My first post of my blog and what a way to begin with, in this post I'm going to share my first day experience at Deeva Deepa.
