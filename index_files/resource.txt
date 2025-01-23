@@ -1,4 +1,4 @@
-blue- #8ad4df
+blue- #4fb6a7 //#367D77
 green- #9adbb3
 red- #fe6d6a
 grey- #323238
